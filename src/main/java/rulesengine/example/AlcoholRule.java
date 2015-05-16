@@ -1,4 +1,4 @@
-package dk.callme.creditcheck;
+package rulesengine.example;
 
 import org.easyrules.annotation.Action;
 import org.easyrules.annotation.Condition;

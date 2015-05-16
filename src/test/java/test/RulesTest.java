@@ -1,8 +1,8 @@
 package test;
 
-import dk.callme.creditcheck.*;
 import org.easyrules.core.AnnotatedRulesEngine;
 import org.junit.Test;
+import rulesengine.example.*;
 
 /**
  * Created by darrenrose on 14/05/2015.

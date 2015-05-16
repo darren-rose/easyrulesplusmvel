@@ -1,4 +1,4 @@
-package dk.callme.creditcheck;
+package rulesengine.example;
 
 /**
  * Created by darrenrose on 14/05/2015.
